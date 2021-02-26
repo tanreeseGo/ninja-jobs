@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        {"title": "Ninja BTC", "id": 1, "details": "lorem"},
+        {"title": "Ninja ETH", "id": 2, "details": "lorem"},
+        {"title": "Ninja XRP", "id": 3, "details": "lorem"}
+    ]
+}    
